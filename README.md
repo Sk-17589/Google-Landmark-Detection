@@ -18,20 +18,17 @@ The purpose of this project is to explore the capabilities of machine learning a
 - Google Landmark Dataset V2 (accessible online).
 
 ## How to Use
-Clone the repository to your local machine using:
-bash
-Copy code
+1. Clone the repository to your local machine using:
 git clone https://github.com/Sk-17589/Google-Landmark-Detection.git
-Navigate to the project directory:
-bash
-Copy code
+
+2. Navigate to the project directory:
 cd Google-Landmark-Detection
-Launch Jupyter Notebook from Anaconda:
-bash
-Copy code
+
+3. Launch Jupyter Notebook from Anaconda:
 jupyter notebook
-Open the Google Landmark Detection-checkpoint.ipynb notebook.
-Run the cells sequentially to execute the model training and evaluation processes.
+
+4. Open the Google Landmark Detection-checkpoint.ipynb notebook.
+5. Run the cells sequentially to execute the model training and evaluation processes.
 
 ## Acknowledgments
 - The Google Landmark Dataset V2 team for providing the dataset and resources.
